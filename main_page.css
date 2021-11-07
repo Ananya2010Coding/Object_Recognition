@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-image: url("BG.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#bedroomBTN , #parkBTN , #petsBTN , #studyRoomBTN{
+    font-size: 20px;
+    margin: 15px;
+}
+
+.heading{
+    text-shadow: 5px 5px 5px grey;
+    color: rgb(114, 2, 30);
+}
+
+h3{
+    color: rgb(58, 2, 58);
+}
